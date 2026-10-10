@@ -1,0 +1,2 @@
+import './registerDifficulties';
+import './registerRules';
