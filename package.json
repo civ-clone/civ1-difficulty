@@ -29,6 +29,11 @@
     "typescript": "^4.0.0"
   },
   "dependencies": {
+    "@civ-clone/base-difficulty-chieftain": "github:civ-clone/base-difficulty-chieftain#feat/difficulty-level",
+    "@civ-clone/base-difficulty-emperor": "github:civ-clone/base-difficulty-emperor#feat/difficulty-level",
+    "@civ-clone/base-difficulty-king": "github:civ-clone/base-difficulty-king#feat/difficulty-level",
+    "@civ-clone/base-difficulty-prince": "github:civ-clone/base-difficulty-prince#feat/difficulty-level",
+    "@civ-clone/base-difficulty-warlord": "github:civ-clone/base-difficulty-warlord#feat/difficulty-level",
     "@civ-clone/core-ai-client": "^0.1.0",
     "@civ-clone/core-city": "^0.1.0",
     "@civ-clone/core-city-build": "^0.1.12",
