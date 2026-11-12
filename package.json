@@ -29,6 +29,11 @@
     "typescript": "^4.0.0"
   },
   "dependencies": {
+    "@civ-clone/base-difficulty-chieftain": "^0.1.0",
+    "@civ-clone/base-difficulty-emperor": "^0.1.0",
+    "@civ-clone/base-difficulty-king": "^0.1.0",
+    "@civ-clone/base-difficulty-prince": "^0.1.0",
+    "@civ-clone/base-difficulty-warlord": "^0.1.0",
     "@civ-clone/core-ai-client": "^0.1.0",
     "@civ-clone/core-city": "^0.1.0",
     "@civ-clone/core-city-build": "^0.1.12",
